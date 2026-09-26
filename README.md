@@ -1,1 +1,1 @@
-PLACEHOLDER_WILL_REPLACE
+# Awesome Web Apps placeholder - see local patch
